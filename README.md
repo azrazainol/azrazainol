@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azrazainol
 - 👀 I’m interested in Natural Language Processing (NLP)
-- 🌱 I’m currently learning data science using R, Python and SQL
+- 🌱 I’m currently studying data science using R, Python and SQL
 - 📫 you can reach me out by email azra.zainol@gmail.com 
 
 <!---
