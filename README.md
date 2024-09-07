@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azrazainol
-- 👀 I’m interested in Natural Language Processing (NLP)
+- 👀 I’m interested in Natural Language Processing and image processing
 - 🌱 I’m currently studying data science using R, Python and SQL
 - 📫 you can reach me out by email azra.zainol@gmail.com 
 
